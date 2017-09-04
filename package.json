@@ -1,0 +1,21 @@
+{
+  "name": "how-to-npm-excerise",
+  "version": "1.0.1",
+  "description": "how-to-npm excerise",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iYou422/how-to-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iYou422/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/iYou422/how-to-npm#readme"
+}
